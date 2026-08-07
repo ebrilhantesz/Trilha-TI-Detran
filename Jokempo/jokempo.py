@@ -7,9 +7,9 @@ empates = 0
 
 opcoes = ["pedra", "papel", "tesoura"]
 
-print("=" * 40)
-print("        JOKENPÔ")
-print("=" * 40)
+print("===============")
+print("    JOKENPÔ")
+print("===============")
 
 while True:
 
@@ -55,8 +55,6 @@ while True:
     print(f"Computador: {computador}")
     print(f"Empates: {empates}")
 
-    continuar = input("\nDeseja jogar novamente? (S/N): ").strip().upper()
-
     while True:
         continuar = input("\nDeseja jogar novamente? (S/N): ").strip().upper()
 
@@ -64,12 +62,12 @@ while True:
             break
         else:        
             print("Opção inválida! Digite apenas S para Sim ou N para Não.")
-        if continuar == "N":
+    if continuar == "N":
             break
 
-print("\n" + "=" * 40)
-print("         FIM DO JOGO")
-print("=" * 40)
+print("\n" + "===============")
+print("  FIM DO JOGO")
+print("===============")
 print(f"Vitórias do jogador: {jogador}")
 print(f"Vitórias do computador: {computador}")
 print(f"Empates: {empates}")
