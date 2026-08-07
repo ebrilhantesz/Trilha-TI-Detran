@@ -57,8 +57,15 @@ while True:
 
     continuar = input("\nDeseja jogar novamente? (S/N): ").strip().upper()
 
-    if continuar != "S":
-        break
+    while True:
+        continuar = input("\nDeseja jogar novamente? (S/N): ").strip().upper()
+
+        if continuar in ["S", "N"]:
+            break
+        else:        
+            print("Opção inválida! Digite apenas S para Sim ou N para Não.")
+        if continuar == "N":
+            break
 
 print("\n" + "=" * 40)
 print("         FIM DO JOGO")
