@@ -12,7 +12,6 @@ print("    JOKENPÔ")
 print("===============")
 
 while True:
-
     print("\nEscolha uma opção:")
     print("1 - Pedra")
     print("2 - Papel")
@@ -23,7 +22,6 @@ while True:
 
     if escolha == "0":
         break
-
     if escolha not in ["1", "2", "3"]:
         print("Opção inválida! Tente novamente.")
         continue
@@ -37,7 +35,6 @@ while True:
     if jogador_escolha == computador_escolha:
         print("Resultado: Empate!")
         empates += 1
-
     elif (
         (jogador_escolha == "pedra" and computador_escolha == "tesoura") or
         (jogador_escolha == "papel" and computador_escolha == "pedra") or
@@ -45,7 +42,6 @@ while True:
     ):
         print("Resultado: Você venceu!")
         jogador += 1
-
     else:
         print("Resultado: Computador venceu!")
         computador += 1
@@ -57,7 +53,6 @@ while True:
 
     while True:
         continuar = input("\nDeseja jogar novamente? (S/N): ").strip().upper()
-
         if continuar in ["S", "N"]:
             break
         else:        
@@ -78,5 +73,4 @@ elif computador > jogador:
     print("O computador venceu a partida!")
 else:
     print("A partida terminou empatada!")
-
 print("Obrigado por jogar!")
