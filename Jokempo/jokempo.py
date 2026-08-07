@@ -61,7 +61,7 @@ while True:
         if continuar in ["S", "N"]:
             break
         else:        
-            print("Opção inválida! Digite apenas S para Sim ou N para Não.")
+            print("\nOpção inválida! Digite apenas S para Sim ou N para Não.")
     if continuar == "N":
             break
 
