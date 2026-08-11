@@ -20,9 +20,7 @@ Um programa desenvolvido em **Python** utilizando a biblioteca **Pandas** para c
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar o uso da biblioteca **Pandas** para manipulação e filtragem de dados.
-
 O programa cria um `DataFrame` contendo informações de funcionários, como **Nome, CPF e Status**. Em seguida, realiza um filtro para identificar somente os funcionários que possuem o status **Pendente**.
-
 Os dados filtrados são então exportados para um arquivo Excel chamado:
 
 ```text
@@ -76,9 +74,9 @@ Exemplo:
 
 ```text
 Nome             CPF              Status
-Ana Souza        123.456.789-00   Regular
-Carlos Lima      987.654.321-00   Pendente
-Mariana Silva    456.789.123-00   Regular
+Douglas Ribeiro        123.456.789-00   Regular
+Eduardo Brilhante      987.654.321-00   Pendente
+Caio Santos            456.789.123-00   Regular
 ```
 
 ### 2. Criação do DataFrame
@@ -159,14 +157,14 @@ RELATÓRIO DE PENDÊNCIAS
 ========================================
 
 DataFrame completo:
-            Nome               CPF     Status
-0      Ana Souza  123.456.789-00    Regular
-1    Carlos Lima  987.654.321-00  Pendente
-2  Mariana Silva  456.789.123-00    Regular
+            Nome               CPF        Status
+0      Douglas Ribeiro  123.456.789-00    Regular
+1    Eduardo Brilhante  987.654.321-00    Pendente
+2          Caio Santos  456.789.123-00    Regular
 
 Funcionários com pendências:
-          Nome               CPF     Status
-1  Carlos Lima  987.654.321-00  Pendente
+          Nome               CPF      Status
+1  Eduardo Brilhante  987.654.321-00  Pendente
 
 Arquivo 'relatorio_pendencias.xlsx' criado com sucesso!
 ```
@@ -185,7 +183,7 @@ O arquivo conterá somente os funcionários que possuem pendências:
 
 | Nome | CPF | Status |
 |---|---|---|
-| Carlos Lima | 987.654.321-00 | Pendente |
+| Eduardo Brilhante | 987.654.321-00 | Pendente |
 
 Esse relatório pode ser aberto normalmente no **Microsoft Excel**, LibreOffice Calc ou outro programa compatível com arquivos `.xlsx`.
 
@@ -193,4 +191,4 @@ Esse relatório pode ser aberto normalmente no **Microsoft Excel**, LibreOffice 
 
 ## Autor
 
-Desenvolvido por **Eduardo Henrique Brilhante** como atividade prática para aplicação dos conceitos fundamentais de **Pandas, DataFrames, filtragem de dados e exportação para Excel em Python**.
+Desenvolvido por **Eduardo Henrique Brilhante**
