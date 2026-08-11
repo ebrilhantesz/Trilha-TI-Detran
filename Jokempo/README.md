@@ -63,7 +63,7 @@ Se ambos os jogadores escolherem a mesma opção, a rodada termina em **empate**
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/jokenpo-python.git
+git clone https://github.com/ebrilhantesz/Trilha-TI-Detran.git
 ```
 
 ### Acesse a pasta

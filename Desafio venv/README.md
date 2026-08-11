@@ -148,7 +148,7 @@ Dessa forma, arquivos e pastas que não devem ser versionados são ignorados pel
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/desafio-venv.git
+git clone https://github.com/ebrilhantesz/Trilha-TI-Detran.git
 ```
 
 ### Acesse a pasta

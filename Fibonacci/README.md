@@ -74,7 +74,7 @@ Cada termo é calculado da seguinte forma:
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/fibonacci-python.git
+git clone https://github.com/ebrilhantesz/Trilha-TI-Detran.git
 ```
 
 ### Acesse a pasta

@@ -57,7 +57,7 @@ Durante a execução, o usuário pode informar quantos números inteiros desejar
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/pares-impares-python.git
+git clone https://github.com/ebrilhantesz/Trilha-TI-Detran.git
 ```
 
 ### Acesse a pasta

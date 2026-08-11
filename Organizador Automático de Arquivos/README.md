@@ -169,7 +169,7 @@ Não é necessário instalar nenhuma biblioteca externa.
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/organizador-arquivos-python.git
+git clone https://github.com/ebrilhantesz/Trilha-TI-Detran.git
 ```
 
 ### Acesse a pasta
