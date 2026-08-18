@@ -1,0 +1,8 @@
+2026-08-18 09:28:22,342 - INFO - Iniciando a organização dos arquivos
+2026-08-18 09:28:22,343 - INFO - Arquivo movido com sucesso: anotacoes.txt -> downloads_teste\txt\anotacoes.txt
+2026-08-18 09:28:22,344 - INFO - Arquivo movido com sucesso: apresentacao.pptx -> downloads_teste\pptx\apresentacao.pptx
+2026-08-18 09:28:22,345 - INFO - Arquivo movido com sucesso: arquivo.zip -> downloads_teste\zip\arquivo.zip
+2026-08-18 09:28:22,345 - INFO - Arquivo movido com sucesso: documento.pdf -> downloads_teste\pdf\documento.pdf
+2026-08-18 09:28:22,346 - INFO - Arquivo movido com sucesso: imagem.jpg -> downloads_teste\jpg\imagem.jpg
+2026-08-18 09:28:22,347 - INFO - Arquivo movido com sucesso: planilha.xlsx -> downloads_teste\xlsx\planilha.xlsx
+2026-08-18 09:28:22,348 - INFO - Organização dos arquivos finalizada

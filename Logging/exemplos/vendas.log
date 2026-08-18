@@ -1,0 +1,6 @@
+2026-08-18 08:50:24,826 - INFO - Iniciando o processamento das vendas
+2026-08-18 08:50:24,826 - INFO - Venda processada: R$ 150
+2026-08-18 08:50:24,826 - INFO - Venda processada: R$ 300
+2026-08-18 08:50:24,827 - ERROR - Valor inválido, não foi possível processar: abc
+2026-08-18 08:50:24,827 - INFO - Venda processada: R$ 220
+2026-08-18 08:50:24,827 - INFO - Processamento finalizado. Total vendido: R$ 670
