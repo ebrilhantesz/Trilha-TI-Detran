@@ -118,5 +118,5 @@ Desenvolvido por **Eduardo Henrique Brilhante**
 ---
 
 <p align="center">
-  Desenvolvido com Python e Selenium.
+  Desenvolvido com Python, Requests, BeautifulSoup e Web Scraping.
 </p>
