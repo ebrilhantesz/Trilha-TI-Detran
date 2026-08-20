@@ -1,0 +1,29 @@
+2026-08-20 09:05:05,894 - INFO - Iniciando o robô de cadastro.
+2026-08-20 09:05:21,170 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-08-20 09:05:34,461 - INFO - Aluno cadastrado com sucesso: Marcelo Manuel - CPF: 111.111.111-11
+2026-08-20 09:05:34,598 - INFO - Aluno cadastrado com sucesso: Flavia Durães - CPF: 333.333.333-33
+2026-08-20 09:05:34,598 - WARNING - Aluno não cadastrado: Ricardo Nunes - CPF: 222.222.222-22 - Motivo: WhatsApp não informado
+2026-08-20 09:05:34,687 - INFO - Aluno cadastrado com sucesso: Camila Rocha - CPF: 444.444.444-44
+2026-08-20 09:05:34,782 - INFO - Aluno cadastrado com sucesso: Bruno Teixeira - CPF: 555.555.555-55
+2026-08-20 09:05:57,743 - INFO - Navegador encerrado após o processamento.
+2026-08-20 09:05:59,039 - INFO - Relatório de pendências gerado: relatorio_pendencias.xlsx
+2026-08-20 09:06:01,116 - INFO - Relatório de sucesso gerado: relatorio_sucesso_historico.xlsx
+2026-08-20 09:06:04,617 - INFO - Relatório movido para processados: relatorio_pendencias.xlsx
+2026-08-20 09:06:04,620 - INFO - Relatório movido para processados: relatorio_sucesso_historico.xlsx
+2026-08-20 09:06:06,470 - INFO - Processamento finalizado - Total: 5 | Sucessos: 0 | Pendências: 1
+2026-08-20 09:07:17,771 - INFO - Iniciando o robô de cadastro.
+2026-08-20 09:07:17,954 - INFO - Planilha carregada com 5 aluno(s).
+2026-08-20 09:07:18,017 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2026-08-20 09:07:19,153 - INFO - Página local aberta: file:///C:/Users/eseduardo.brilhante/Documents/Projetos/Git Trilha Detran/Robô de Cadastro/index.html
+2026-08-20 09:07:19,310 - INFO - Aluno cadastrado com sucesso: Marcelo Manuel | WhatsApp: (11) 99999-1111
+2026-08-20 09:07:19,408 - INFO - Aluno cadastrado com sucesso: Flavia Durães | WhatsApp: (21) 98888-2222
+2026-08-20 09:07:19,409 - WARNING - Aluno não cadastrado: Ricardo Nunes | CPF: 222.222.222-22 | Motivo: WhatsApp ausente
+2026-08-20 09:07:19,504 - INFO - Aluno cadastrado com sucesso: Camila Rocha | WhatsApp: (41) 99777-3333
+2026-08-20 09:07:19,597 - INFO - Aluno cadastrado com sucesso: Bruno Teixeira | WhatsApp: (11) 98666-4444
+2026-08-20 09:07:19,601 - INFO - Histórico capturado com sucesso: 4 registro(s).
+2026-08-20 09:07:21,769 - INFO - Navegador encerrado.
+2026-08-20 09:07:21,802 - INFO - Relatório de pendências salvo em: C:\Users\eseduardo.brilhante\Documents\Projetos\Git Trilha Detran\Robô de Cadastro\relatorio_pendencias.xlsx
+2026-08-20 09:07:21,802 - INFO - Relatório de sucesso salvo em: C:\Users\eseduardo.brilhante\Documents\Projetos\Git Trilha Detran\Robô de Cadastro\relatorio_sucesso_historico.xlsx
+2026-08-20 09:07:21,804 - INFO - Relatório copiado com sucesso: C:\Users\eseduardo.brilhante\Documents\Projetos\Git Trilha Detran\Robô de Cadastro\relatorio_pendencias.xlsx -> C:\Users\eseduardo.brilhante\Documents\Projetos\Git Trilha Detran\Robô de Cadastro\processados\relatorio_pendencias.xlsx
+2026-08-20 09:07:21,805 - INFO - Relatório copiado com sucesso: C:\Users\eseduardo.brilhante\Documents\Projetos\Git Trilha Detran\Robô de Cadastro\relatorio_sucesso_historico.xlsx -> C:\Users\eseduardo.brilhante\Documents\Projetos\Git Trilha Detran\Robô de Cadastro\processados\relatorio_sucesso_historico.xlsx
+2026-08-20 09:07:21,806 - INFO - Processamento finalizado. Total: 5 | Sucesso: 4 | Pendências: 1
